@@ -1,0 +1,9 @@
+export const ADD_USER = 'ADD_USER';
+export const REMOVE_USER = 'REMOVE_USER';
+export const RENAME_USER = 'RENAME_USER';
+export const ADD_LEVEL = 'ADD_LEVEL';
+export const REMOVE_LEVEL = 'REMOVE_LEVEL';
+export const RENAME_LEVEL = 'RENAME_LEVEL';
+export const ADD_RUNK = 'ADD_RUNK';
+export const REMOVE_RUNK = 'REMOVE_RUNK';
+export const RENAME_RUNK = 'RENAME_RUNK';
