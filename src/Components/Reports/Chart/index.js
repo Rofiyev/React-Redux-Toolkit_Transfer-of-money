@@ -4,7 +4,7 @@ import { Pie } from 'react-chartjs-2';
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
-function Chart({ value }) {
+export default function Chart({ value }) {
   const usersData = value.map(data => data.name);
   const values = value.map(data => data.value);
 
@@ -29,4 +29,3 @@ function Chart({ value }) {
 
   return <Pie data={data} />;
 }
-export default Chart;
