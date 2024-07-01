@@ -4,7 +4,9 @@
 
 In this project, we will make money transfers with the frontend through ReactJS and Redux toolkit
 
-## To set up the project, follow these steps:
+## Instalition
+
+### To set up the project, follow these steps:
 
 1. Clone the repository:
 
