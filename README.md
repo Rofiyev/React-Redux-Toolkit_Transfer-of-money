@@ -11,8 +11,8 @@ In this project, we will make money transfers with the frontend through ReactJS 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rofiyev/React-Redux-Toolkit_Transfer-of-money.git
-   cd React-Redux-Toolkit_Transfer-of-money
+   git clone https://github.com/Rofiyev/transfer_of_money.git
+   cd transfer_of_money
    ```
 
 2. Install the dependencies:
